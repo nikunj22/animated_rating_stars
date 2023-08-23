@@ -4,7 +4,9 @@
 [![Package Downloads](https://img.shields.io/pub/dt/animated_rating_stars.svg)](https://pub.dev/packages/animated_rating_stars)
 [![GitHub Stars](https://img.shields.io/github/stars/nikunj22/animated_rating_stars.svg?style=social)](https://github.com/nikunj22/animated_rating_stars)
 [![GitHub Forks](https://img.shields.io/github/forks/nikunj22/animated_rating_stars.svg?style=social)](https://github.com/nikunj22/animated_rating_stars)
-[![License](https://img.shields.io/github/license/yourusername/animated_rating_stars.svg)](https://github.com/yourusername/animated_rating_stars/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/nikunj22/animated_rating_stars.svg)](https://github.com/nikunj22/animated_rating_stars/blob/main/LICENSE)
+
+
 
 
 `AnimatedRatingStars` is a highly customizable animated rating bar widget for Flutter. It allows users to interactively provide ratings by tapping on stars. The package offers a wide range of customization options and is designed to be easy to integrate into your Flutter applications.

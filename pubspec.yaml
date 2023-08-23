@@ -1,7 +1,10 @@
 name: animated_rating_stars
 description: A highly customizable Flutter rating bar widget for interactive star-based ratings.
-version: 0.0.1
+version: 1.0.0
 homepage: https://github.com/nikunj22/animated_rating_stars
+screenshots:
+  - description: 'Examples usage of rating bars.'
+    path: screenshot1.png
 
 environment:
   sdk: '>=3.1.0 <4.0.0'
