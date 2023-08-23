@@ -8,3 +8,8 @@
 - Suitable for cross-platform use.
 
 This initial release includes the core functionality of the `AnimatedRatingStars` widget, allowing users to integrate animated star rating bars into their Flutter applications.
+
+
+## 1.0.1
+
+- Documentation Updated.

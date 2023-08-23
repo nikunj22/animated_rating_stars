@@ -1,10 +1,10 @@
 # Animated Rating Stars for Flutter
 
-[![Package Version](https://img.shields.io/pub/v/animated_rating_stars.svg)](https://pub.dev/packages/animated_rating_stars)
+[![Package Version](https://img.shields.io/pub/v/animated_rating_stars.svg)](https://pub.dev/packages/animated_rating_stars/versions)
 [![Package Downloads](https://img.shields.io/pub/dt/animated_rating_stars.svg)](https://pub.dev/packages/animated_rating_stars)
-[![GitHub Stars](https://img.shields.io/github/stars/nikunj22/animated_rating_stars.svg?style=social)](https://github.com/nikunj22/animated_rating_stars)
-[![GitHub Forks](https://img.shields.io/github/forks/nikunj22/animated_rating_stars.svg?style=social)](https://github.com/nikunj22/animated_rating_stars)
-[![License](https://img.shields.io/github/license/nikunj22/animated_rating_stars.svg)](https://github.com/nikunj22/animated_rating_stars/blob/main/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/nikunj22/animated_rating_stars.svg?style=social)](https://github.com/nikunj22/animated_rating_stars/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/nikunj22/animated_rating_stars.svg?style=social)](https://github.com/nikunj22/animated_rating_stars/forks)
+[![License](https://img.shields.io/github/license/nikunj22/animated_rating_stars.svg)](https://pub.dev/packages/animated_rating_stars/license)
 
 
 
@@ -29,7 +29,7 @@ To use this package, add `animated_rating_stars` as a dependency in your `pubspe
 
 ```yaml
 dependencies:
-  animated_rating_stars: ^1.0.0
+  animated_rating_stars: ^1.0.1
 ```
 
 Then, run flutter pub get to fetch the package.
@@ -72,7 +72,7 @@ AnimatedRatingStars(
 
 Customize the properties according to your requirements. The onChanged callback is called when the rating changes.
 
-For more examples and usage details, refer to the example directory included with this package.
+For more <a href="https://pub.dev/packages/animated_rating_stars/example">examples</a> and usage details, refer to the <a href="https://pub.dev/packages/animated_rating_stars/example">examples</a> directory included with this package.
 
 ## Customization
 
@@ -98,10 +98,10 @@ You can customize the appearance and behavior of the rating bar using the follow
 
 ## Customization
 
-Contributions and feedback are welcome! If you encounter any issues or have feature requests, please open an issue on GitHub.
+Contributions and feedback are welcome! If you encounter any issues or have feature requests, please open an <a href="https://github.com/nikunj22/animated_rating_stars/issues">issue</a> on <a href="https://github.com/nikunj22">GitHub</a>.
 
 ## License
 
-This package is distributed under the MIT License. See LICENSE for details.
+This package is distributed under the <a href="https://opensource.org/license/mit/">MIT License</a>. See <a href="https://pub.dev/packages/animated_rating_stars/license">LICENSE</a> for details.
 
 For more Flutter packages and development resources, visit <a href="https://pub.dev/">pub.dev</a>.

@@ -8,7 +8,8 @@ abstract class AnimatedRatingStarsPlatform extends PlatformInterface {
 
   static final Object _token = Object();
 
-  static AnimatedRatingStarsPlatform _instance = MethodChannelAnimatedRatingStars();
+  static AnimatedRatingStarsPlatform _instance =
+      MethodChannelAnimatedRatingStars();
 
   /// The default instance of [AnimatedRatingStarsPlatform] to use.
   ///
