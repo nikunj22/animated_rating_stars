@@ -1,4 +1,4 @@
-## 0.0.1 - Initial Release
+## 1.0.0 - Initial Release
 
 - Added the `AnimatedRatingStars` widget, a customizable animated rating bar.
 - Users can interact with the rating bar to provide a rating.
